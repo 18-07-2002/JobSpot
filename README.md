@@ -1,5 +1,5 @@
-<h1 align="center"> JobSpot 👜 </h1>
-<p align="center"> JobSpot is an android application designed to help students find job opportunities and prepare for them. The app offers a range of features to help students apply for jobs, take mock tests, and stay updated on their application status. </p>
+<h1 align="center"> Jobzzee 👜 </h1>
+<p align="center"> Jobzzee is an android application designed to help students find job opportunities and prepare for them. The app offers a range of features to help students apply for jobs, take mock tests, and stay updated on their application status. </p>
 
 ## Features
 
@@ -38,7 +38,7 @@
 - Clone the repository by running the following command in your terminal:
 
 ```bash
- git clone https://github.com/18-07-2002/JobSpot.git
+ git clone https://github.com/18-07-2002/Jobzzee.git
 ```
 
 - Add the `google-service.json` file to your application. This file contains your Firebase project's configuration details and is required for your app to function properly. To get this file, follow these steps:
@@ -92,9 +92,9 @@ Congratulations 🎉, you've successfully installed and launched the app and run
 | --- | --- |
 | ![Profile Edit Screen](./preview/profile_edit_light.png) | ![Logout Delete Screen](./preview/logout_delete_account_light.png) |
 
-# Contributing to [JobSpot](https://github.com/18-07-2002/JobSpot)
+# Contributing to [Jobzzee](https://github.com/18-07-2002/Jobzzee)
 
-Thank you for your interest in contributing to [JobSpot](https://github.com/18-07-2002/JobSpot)! We welcome contributions from anyone, regardless of their level of experience or expertise. This document outlines how to get started with contributing to the project.
+Thank you for your interest in contributing to [Jobzzee](https://github.com/18-07-2002/Jobzzee)! We welcome contributions from anyone, regardless of their level of experience or expertise. This document outlines how to get started with contributing to the project.
 
 ## Prerequisites
 
