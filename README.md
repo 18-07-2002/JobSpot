@@ -76,8 +76,8 @@ This command will install the app on your connected Android device or emulator a
 Congratulations 🎉, you've successfully installed and launched the app and run unit tests!
 
 ## Preview
-| Login Signup Screen  | Add Details Screen                                    
-|----------------------|-------------------------------------------------------|
+| Login Signup Screen | Add Details Screen |                                  
+| --- | --- |
 | ![Login Signup Screen](./preview/login_signup_screen.png) | ![Add Details Screen](./preview/add_details_light.png) |
 
 | Home Notification Screen | Job Screen |
