@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/studentDetailFragment"
-        android:name="com.krish.jobspot.user_details.fragments.StudentDetailFragment"
+        android:name="com.krish.Jobzzee.user_details.fragments.StudentDetailFragment"
         android:label="fragment_student_detail"
         tools:layout="@layout/fragment_student_detail" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/studentAddressFragment"
-        android:name="com.krish.jobspot.user_details.fragments.StudentAddressFragment"
+        android:name="com.krish.Jobzzee.user_details.fragments.StudentAddressFragment"
         android:label="fragment_student_address"
         tools:layout="@layout/fragment_student_address" >
         <action
@@ -28,7 +28,7 @@
     </fragment>
     <fragment
         android:id="@+id/studentAcademicFragment"
-        android:name="com.krish.jobspot.user_details.fragments.StudentAcademicFragment"
+        android:name="com.krish.Jobzzee.user_details.fragments.StudentAcademicFragment"
         android:label="fragment_student_academic"
         tools:layout="@layout/fragment_student_academic" >
         <argument
@@ -40,7 +40,7 @@
     </fragment>
     <fragment
         android:id="@+id/studentResumeFragment"
-        android:name="com.krish.jobspot.user_details.fragments.StudentResumeFragment"
+        android:name="com.krish.Jobzzee.user_details.fragments.StudentResumeFragment"
         android:label="fragment_student_resume"
         tools:layout="@layout/fragment_student_resume" >
         <argument

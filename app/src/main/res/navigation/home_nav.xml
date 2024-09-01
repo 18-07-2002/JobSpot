@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.krish.jobspot.home.fragments.HomeFragment"
+        android:name="com.krish.Jobzzee.home.fragments.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home">
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/jobsFragment"
-        android:name="com.krish.jobspot.home.fragments.JobsFragment"
+        android:name="com.krish.Jobzzee.home.fragments.JobsFragment"
         android:label="fragment_jobs"
         tools:layout="@layout/fragment_jobs">
         <action
@@ -25,7 +25,7 @@
     </fragment>
     <activity
         android:id="@+id/jobViewActivity"
-        android:name="com.krish.jobspot.home.activity.JobViewActivity"
+        android:name="com.krish.Jobzzee.home.activity.JobViewActivity"
         android:label="activity_job_view"
         tools:layout="@layout/activity_job_view">
         <argument
@@ -34,12 +34,12 @@
     </activity>
     <fragment
         android:id="@+id/alertFragment"
-        android:name="com.krish.jobspot.home.fragments.AlertFragment"
+        android:name="com.krish.Jobzzee.home.fragments.AlertFragment"
         android:label="fragment_alert"
         tools:layout="@layout/fragment_alert" />
     <fragment
         android:id="@+id/mockTestFragment"
-        android:name="com.krish.jobspot.home.fragments.MockTestFragment"
+        android:name="com.krish.Jobzzee.home.fragments.MockTestFragment"
         android:label="fragment_mock_test"
         tools:layout="@layout/fragment_mock_test" />
 </navigation>

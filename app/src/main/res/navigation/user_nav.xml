@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/userFragment"
-        android:name="com.krish.jobspot.home.fragments.userFragment.UserFragment"
+        android:name="com.krish.Jobzzee.home.fragments.userFragment.UserFragment"
         android:label="fragment_user"
         tools:layout="@layout/fragment_user" >
         <action
@@ -22,7 +22,7 @@
     </fragment>
     <fragment
         android:id="@+id/userEditFragment"
-        android:name="com.krish.jobspot.home.fragments.userFragment.UserEditFragment"
+        android:name="com.krish.Jobzzee.home.fragments.userFragment.UserEditFragment"
         android:label="fragment_user_edit"
         tools:layout="@layout/fragment_user_edit" >
         <argument
@@ -31,12 +31,12 @@
     </fragment>
     <fragment
         android:id="@+id/userResumeEditFragment"
-        android:name="com.krish.jobspot.home.fragments.userFragment.UserResumeEditFragment"
+        android:name="com.krish.Jobzzee.home.fragments.userFragment.UserResumeEditFragment"
         android:label="fragment_user_resume_edit"
         tools:layout="@layout/fragment_user_resume_edit" />
     <fragment
         android:id="@+id/userTpoContact"
-        android:name="com.krish.jobspot.home.fragments.userFragment.UserTpoContact"
+        android:name="com.krish.Jobzzee.home.fragments.userFragment.UserTpoContact"
         android:label="fragment_user_tpo_contact"
         tools:layout="@layout/fragment_user_tpo_contact" />
 </navigation>

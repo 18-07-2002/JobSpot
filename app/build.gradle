@@ -11,7 +11,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.swayam.jobsearch"
+        applicationId "com.krish.jobbzee"
         minSdk 27
         targetSdk 34
         versionCode 1
