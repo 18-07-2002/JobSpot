@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637984190022",
+    "project_id": "jobsearch-aabb8",
+    "storage_bucket": "jobsearch-aabb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637984190022:android:80642b5fa56fbe8aa5e447",
+        "android_client_info": {
+          "package_name": "com.swayam.jobsearch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlW53KXdNDDO2kfQPKeneL9QYb9xDlFOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
