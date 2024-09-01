@@ -92,10 +92,6 @@ Congratulations 🎉, you've successfully installed and launched the app and run
 | --- | --- |
 | ![Profile Edit Screen](./preview/profile_edit_light.png) | ![Logout Delete Screen](./preview/logout_delete_account_light.png) |
 
-# Contributing to [JobSpot](https://github.com/18-07-2002/JobSpot)
-
-Thank you for your interest in contributing to [JobSpot](https://github.com/18-07-2002/JobSpot)! We welcome contributions from anyone, regardless of their level of experience or expertise. This document outlines how to get started with contributing to the project.
-
 ## Prerequisites
 
 Before you start, you will need to have the following tools and software installed:
